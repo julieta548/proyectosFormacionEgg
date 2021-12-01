@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+.container{
+    border-right-width: 5%;
+    border-left-width: 5%;
+}
+
+
+body {
+    background-image: url("/img/fondo.jpg");
+    background-size: cover;
+    flex: 1;
+}

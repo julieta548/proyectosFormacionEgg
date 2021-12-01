@@ -1,0 +1,21 @@
+body {
+    background-image: url("/img/libros.jpg");
+    background-size: cover;
+    flex: 1;
+    text-align: center;
+    background-position: center;
+
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: aliceblue;
+
+}
+
+#titulo{
+    color: aliceblue;
+}
+
+#isbn{
+    color: gray;
+}
+

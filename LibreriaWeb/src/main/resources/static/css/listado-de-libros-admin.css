@@ -1,0 +1,44 @@
+
+h3{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+.container{
+    border-right-width: 5%;
+    border-left-width: 5%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+body {
+    background-image: url("/img/libros.jpg");
+    background-size: cover;
+    flex: 1;
+    text-align: center;
+    background-position: center;
+
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: aliceblue;
+
+
+}
+
+.column {
+    float: left;
+}
+
+.left, .right {
+    width: 25%;
+}
+
+.middle {
+    width: 50%;
+}
+
+#mytable{
+
+}
